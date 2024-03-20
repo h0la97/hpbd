@@ -5,7 +5,8 @@ var config = {
         "Here's to a year filled with endless joy, laughter, and unforgettable moments",
         "You deserve all the love and happiness in the world",
         "May your dreams take flight and your heart overflow with love and success",
-        "Cheers to another fabulous year ahead! Sending you heaps of hugs, kisses, and warm wishes on your birthday",
+        "Cheers to another fabulous year ahead!"
+        "Sending you heaps of hugs, kisses, and warm wishes on your birthday",
         "Enjoy every moment 🎂🎈"
     ],
     imgs: {
@@ -14,8 +15,9 @@ var config = {
         "Here's to a year filled with endless joy, laughter, and unforgettable moments": "./imgs/MA/MA2.jpg",
         "You deserve all the love and happiness in the world": "./imgs/MA/MA3.jpg",
         "May your dreams take flight and your heart overflow with love and success": "./imgs/MA/MA5.png",
-        "Cheers to another fabulous year ahead! Sending you heaps of hugs, and warm wishes on your birthday": "./imgs/MA/MA4.jpg",
-        "Enjoy every moment 🎂🎈": "./imgs/MA/MA7.png"
+        "Cheers to another fabulous year ahead!": "./imgs/MA/MA4.jpg",
+        "Sending you heaps of hugs, and warm wishes on your birthday": "./imgs/MA/MA7.png",
+        "Enjoy every moment 🎂🎈": 
     },
     desc: {
         turn_on: "Turn On Lights",
