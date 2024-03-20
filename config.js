@@ -9,13 +9,13 @@ var config = {
         "Enjoy every moment 🎂🎈"
     ],
     imgs: {
-        "Happy Birthday to the most radiant girl I know! 🎉": "./imgs/xiaokeai.png",
-        "May your special day be as beautiful and vibrant as you are": "./imgs/xiaokeai.png",
-        "Here's to a year filled with endless joy, laughter, and unforgettable moments": "./imgs/xiaokeai.png",
-        "You deserve all the love and happiness in the world": "./imgs/xiaokeai.png",
-        "May your dreams take flight and your heart overflow with love and success": "./imgs/xiaokeai.png",
-        "Cheers to another fabulous year ahead! Sending you heaps of hugs, kisses, and warm wishes on your birthday": "./imgs/xiaokeai.png",
-        "Enjoy every moment 🎂🎈": "./imgs/xiaokeai.png"
+        "Happy Birthday to the most radiant girl I know! 🎉": "./imgs/MA/MA1.jpg",
+        "May your special day be as beautiful and vibrant as you are": "./imgs/MA/MA6.jpg",
+        "Here's to a year filled with endless joy, laughter, and unforgettable moments": "./imgs/MA/MA2.jpg",
+        "You deserve all the love and happiness in the world": "./imgs/MA/MA3.jpg",
+        "May your dreams take flight and your heart overflow with love and success": "./imgs/MA/MA5.png",
+        "Cheers to another fabulous year ahead! Sending you heaps of hugs, and warm wishes on your birthday": "./imgs/MA/MA4.jpg",
+        "Enjoy every moment 🎂🎈": "./imgs/MA/MA7.png"
     },
     desc: {
         turn_on: "Turn On Lights",
