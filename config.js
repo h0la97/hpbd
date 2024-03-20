@@ -5,7 +5,7 @@ var config = {
         "Here's to a year filled with endless joy, laughter, and unforgettable moments",
         "You deserve all the love and happiness in the world",
         "May your dreams take flight and your heart overflow with love and success",
-        "Cheers to another fabulous year ahead!"
+        "Cheers to another fabulous year ahead!",
         "Sending you heaps of hugs, kisses, and warm wishes on your birthday",
         "Enjoy every moment 🎂🎈"
     ],
