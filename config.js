@@ -6,7 +6,7 @@ var config = {
         "You deserve all the love and happiness in the world",
         "May your dreams take flight and your heart overflow with love and success",
         "Cheers to another fabulous year ahead!",
-        "Sending you heaps of hugs, kisses, and warm wishes on your birthday",
+        "Sending you heaps of hugs, and warm wishes on your birthday",
         "Enjoy every moment 🎂🎈"
     ],
     imgs: {
