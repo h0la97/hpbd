@@ -16,8 +16,7 @@ var config = {
         "You deserve all the love and happiness in the world": "./imgs/MA/MA3.jpg",
         "May your dreams take flight and your heart overflow with love and success": "./imgs/MA/MA5.png",
         "Cheers to another fabulous year ahead!": "./imgs/MA/MA4.jpg",
-        "Sending you heaps of hugs, and warm wishes on your birthday": "./imgs/MA/MA7.png",
-        "Enjoy every moment 🎂🎈": 
+        "Sending you heaps of hugs, and warm wishes on your birthday": "./imgs/MA/MA7.png"
     },
     desc: {
         turn_on: "Turn On Lights",
